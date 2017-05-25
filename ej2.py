@@ -9,4 +9,4 @@ n = int(input("ingrese un numero /n:"))
 if (n%2 == 0):
  print(str(n)+"par")
 else:
- impresion(str(n)+"impar")
+ print(str(n)+"impar")
